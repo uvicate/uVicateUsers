@@ -1,0 +1,13 @@
+{
+	"modules": {
+		"login": {},
+		"backend": {},
+		"dashboard": {"i": "glyphicon glyphicon-home"},
+		"manage": {"i": "glyphicon glyphicon-list"},
+		"configuration": {"i": "glyphicon glyphicon-cog"},
+		"profile": {"i": "glyphicon glyphicon-user"}
+	},
+	"modules_path": "modules/",
+	"rest": "http://victor/Desarrollos/Usuarios/api/v1/",
+	"id": "U"
+}

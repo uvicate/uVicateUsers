@@ -1,0 +1,7 @@
+<content>
+	<dom>
+		<new-usr-title>Nuevo usuario</new-usr-title>
+
+		<save-new-btn>Crear usuario </save-new-btn>
+	</dom>
+</content>

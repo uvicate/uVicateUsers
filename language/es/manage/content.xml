@@ -1,0 +1,25 @@
+<content>
+	<dom>
+		<fullname>Nombre completo</fullname>
+		<operations>Ver</operations>
+
+		<basic>Datos básicos</basic>
+
+		<name>Nombre</name>
+		<lastname>Apellido</lastname>
+		<username>Nombre de usuario</username>
+		<email>Correo elecrónico</email>
+		<password>Contraseña</password>
+		<password_2>Vuelva a escribir la contraseña</password_2>
+
+		<new-btn>Nuevo usuario </new-btn>
+		
+		<save-btn>Guardar cambios </save-btn>
+
+		<remove-title>Borrar usuario</remove-title>
+		<remove-description>Estás a punto de eliminar a </remove-description>
+		<remove-message>Una vez borrado, el usuario no puede ser recuperado, perdiendo todos sus datos e información personal. Por favor, ten cuidado al realizar esta acción.</remove-message>
+
+		<accept-btn>Aceptar</accept-btn>
+	</dom>
+</content>

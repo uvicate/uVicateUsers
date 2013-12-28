@@ -1,0 +1,7 @@
+<content>
+	<dom>
+		<delete-btn>Borrar usuario </delete-btn>
+		<force-logout>Forzar salida </force-logout>
+		<change-password>Reestablecer contraseña </change-password>
+	</dom>
+</content>

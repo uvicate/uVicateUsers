@@ -1,0 +1,7 @@
+{
+	"project":"User Management",
+	"project_path":"/",
+	"modules":["login", "backend", "configuration", "manage", "profile"],
+	"module_path":"modules",
+	"languages":["en", "es"]
+}

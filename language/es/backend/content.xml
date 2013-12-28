@@ -1,0 +1,11 @@
+<content>
+	<dom>
+		<dashboard>Tablero</dashboard>
+		<configuration>Configuración</configuration>
+		<manage>Administrar</manage>
+		<profile>Perfil</profile>
+
+		<signed-in>Sesión iniciada como</signed-in>
+		<logout>Cerrar sesión</logout>
+	</dom>
+</content>

@@ -1,0 +1,9 @@
+{
+	"name": "uVicateUsers",
+	"dependencies": {
+		"jQuery": "2.0.3",
+		"bootstrap": "v3.0.3",
+		"webapp": "v1.0.2",
+		"ladda": ""
+	}
+}

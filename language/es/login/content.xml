@@ -1,0 +1,11 @@
+<content>
+	<dom>
+		<usermanager-title>Bienvenido a User Manager</usermanager-title>
+		<about-usermanager>Crea y administra usuarios para tus aplicaciones de una manera sencilla. El sistema cuenta con soporte the RESTful APIs y autentificación por medio de OAuth 2.0</about-usermanager>
+
+		<button>Inica sesión</button>
+
+		<error-login>Acceso no autorizado</error-login>
+		<error-description>Verifica que tu usuario y/o contraseña sean correctos</error-description>
+	</dom>
+</content>
